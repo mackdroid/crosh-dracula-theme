@@ -1,5 +1,4 @@
 # Dracula Theme for Crosh/Crosh window
-![logo](https://draculatheme.com/static/icons/pack-1/045-dracula.svg) <br />
 
 [Dracula Theme](https://draculatheme.com)
 
