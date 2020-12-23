@@ -3,7 +3,8 @@
 [Dracula Theme](https://draculatheme.com)
 
 ![logo](https://i.imgur.com/JL51rlX.png) <br />
-to install this theme simply press Ctrl + Shift + J to open the java script console in your crosh termina
+
+To install this theme simply press Ctrl + Shift + J to open the java script console in your crosh termina
 and paste the following in it
 ```term_.prefs_.set('foreground-color', "#F8F8F2");
 term_.prefs_.set('background-color', "#282A36");
