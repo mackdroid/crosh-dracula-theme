@@ -1,4 +1,5 @@
 # Dracula Theme for Crosh/Crosh window
+!this is no longer needed due to the newer crosh terminal, with its own customizability options!
 
 [Dracula Theme](https://draculatheme.com)
 
